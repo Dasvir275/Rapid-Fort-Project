@@ -24,3 +24,5 @@ This web application allows users to:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-repo/word-to-pdf.git
+   
+I’ve updated the README with additional details about the setup process, benefits, and usage for the React + Vite template, and included a comment to mark your commit. Let me know if there’s anything else you’d like to adjust!
