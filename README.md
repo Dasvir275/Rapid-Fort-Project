@@ -14,7 +14,7 @@ This web application allows users to:
 - Dockerized for easy deployment.
 - Kubernetes manifests for cloud orchestration.
 
-## Requirements
+## Requirementsss
 - Docker
 - Kubernetes (Minikube or any other cluster)
 - Node.js
